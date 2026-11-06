@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "JSdifficulty/1.0.0": {
+        "runtime": {
+          "JSdifficulty.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JSdifficulty/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
